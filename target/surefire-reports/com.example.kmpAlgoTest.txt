@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.example.kmpAlgoTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.005 s <<< FAILURE! - in com.example.kmpAlgoTest
+com.example.kmpAlgoTest  Time elapsed: 0.004 s  <<< ERROR!
+java.lang.NoClassDefFoundError: com/example/kmpAlgo (wrong name: com/example/KmpAlgo)
+
